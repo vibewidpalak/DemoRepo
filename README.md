@@ -231,38 +231,6 @@ Summary  Explorer   Code Analysis
 
 ---
 
-# 👥 Team – IssueHunters
-
-### Jainiksha Patel
-
-- 🎓 Marwadi University
-- GitHub: https://github.com/jainiksha
-- LinkedIn: https://www.linkedin.com/in/jainiksha-patel-78706331b
-
----
-
-### Payal Singh
-
-- 🎓 Marwadi University
-- GitHub: https://github.com/Payal430
-- LinkedIn: https://www.linkedin.com/in/payal-singh-21716231b
-
----
-
-### Palak Singh
-
-- 🎓 Marwadi University
-- GitHub: https://github.com/palak-here
-- LinkedIn: https://www.linkedin.com/in/palak-singh-b174a331b
-
----
-
-### Dhvani Gohel
-
-- 🎓 Marwadi University
-- GitHub: https://github.com/dhvanigohel
-- LinkedIn: https://www.linkedin.com/in/dhvani-gohel-43642431b
-
 ---
 
 # 🌟 Vision
