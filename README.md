@@ -32,7 +32,7 @@ Understand Architecture
 Search for Relevant Issues
         ↓
 Start Contributing
-```
+
 
 This manual process increases onboarding time and discourages new contributors.
 
