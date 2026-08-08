@@ -187,7 +187,7 @@ RepoSheriff bridges the gap between complex repositories and aspiring contributo
 It enables developers to:
 
 - Understand repositories faster
-- Make meaningful contributions sooner
+- Make meaningful contributions faster
 - Improve repository quality
 - Learn open source more effectively
 
