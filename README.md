@@ -189,7 +189,7 @@ It enables developers to:
 - Understand repositories faster
 - Make meaningful contributions sooner
 - Improve repository quality
-- Learn open source more efficiently
+- Learn open source more effectively
 
 ---
 
